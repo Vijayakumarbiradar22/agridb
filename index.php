@@ -34,7 +34,7 @@
 			<section id="banner" class="wrapper">
 				<div class="container">
 				<h2>AGRICULTURE</h2>
-				<p>OUR MARKET ON YOUR PRODUCTS</p>
+				<p>WHERE YOUR PRODUCT MEETS OUR MARKET</p>
 				<br><br>
 				<center>
 					<div class="row uniform">
