@@ -41,7 +41,7 @@
 		<!-- One -->
 			<section id="one" class="wrapper style1 align-center" style="height: 600px">
 				<div class="container">
-					<h2>WELCOME TO DIGITAL MARKET TO ALL</h2>
+					<h2>WELCOME TO DIGITAL MARKET</h2>
 					<br /><br />
 					<div class="row 200%">
 						<section class="4u 12u$(small)">
